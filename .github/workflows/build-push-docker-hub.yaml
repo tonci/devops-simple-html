@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches: ['main']
-    paths: ['index.html']
+    paths: ['index.html', 'Dockerfile']
 
 
 jobs:
